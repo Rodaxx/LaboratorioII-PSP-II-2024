@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1731897352237
+Build-Jdk-Spec: 17
+Bundle-Activator: cl.ucn.biblioteca.inventario.InventarioActivador
+Bundle-ManifestVersion: 2
+Bundle-Name: cl.ucn.biblioteca.api.impl OSGi Bundle
+Bundle-SymbolicName: cl.ucn.biblioteca.api.impl
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Export-Package: cl.ucn.biblioteca.api.impl;uses:="cl.ucn.biblioteca.api"
+ ;version="1.0.0"
+Import-Package: cl.ucn.biblioteca.api;version="[1.0,2)",org.osgi.framewo
+ rk;version="[1.8,2)"
+Private-Package: cl.ucn.biblioteca.inventario
+Tool: Bnd-6.3.1.202206071316

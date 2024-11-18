@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1731897354128
+Build-Jdk-Spec: 17
+Bundle-Activator: cl.ucn.biblioteca.servicios.activador.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: cl.ucn.biblioteca.tui OSGi Bundle
+Bundle-SymbolicName: cl.ucn.biblioteca.tui
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Export-Package: cl.ucn.biblioteca.servicios.tui;uses:="cl.ucn.biblioteca
+ .api,cl.ucn.biblioteca.servicio.api,org.osgi.framework";version="1.0.0"
+Import-Package: cl.ucn.biblioteca.api;version="[1.0,2)",cl.ucn.bibliotec
+ a.servicio.api;version="[1.0,2)",org.osgi.framework;version="[1.6,2)"
+Private-Package: cl.ucn.biblioteca.servicios.activador
+Tool: Bnd-6.3.1.202206071316
