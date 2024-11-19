@@ -13,7 +13,6 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cl.ucn.biblioteca.rest/pom.xml" />
-        <option value="$PROJECT_DIR$/cl.ucn.biblioteca.servlet/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>
