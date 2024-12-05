@@ -73,7 +73,7 @@
                     </instructions>
                     <remoteOBR>repo-rel</remoteOBR>
                     <prefixUrl>
-                        file:///home/dsanmartins/releases
+                        file:///home/rodrigovega/releases
                     </prefixUrl>
                     <supportIncrementalBuild>true</supportIncrementalBuild>
                 </configuration>
@@ -126,7 +126,7 @@
     <distributionManagement>
         <repository>
             <id>repo-rel</id>
-            <url>file:///home/dsanmartins/releases</url>
+            <url>file:///home/rodrigovega/releases</url>
         </repository>
     </distributionManagement>
 </project>

@@ -1,6 +1,6 @@
 
 # Laboratorio II, Segundo Semestre del 2024
-## <sup>Asignatura: Patrones de Software y Programación </sup> <br><sup>Profesor: Daniel San Martín</sup> <br> <sup> Nombre Estudiante: <br> </sup><sup> Fecha de Entrega: 06-12-2024 12:00pm</sup>   
+## <sup>Asignatura: Patrones de Software y Programación </sup> <br><sup>Profesor: Daniel San Martín</sup> <br> <sup> Nombre Estudiante: Rodrigo Vega Vasquez<br> </sup><sup> Fecha de Entrega: 06-12-2024 12:00pm</sup>   
 <hr>
 
 # Enunciado
