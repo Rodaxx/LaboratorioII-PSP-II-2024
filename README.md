@@ -8,7 +8,7 @@
 Usted como Ingeniero en Computación e Informática, ha sido contratado para la implementación de un sistema de biblioteca
 en plataforma OSGi. La arquitectura del sistema ya ha sido diseñada, sin embargo las funciones claves se encuentran sin
 implementación. Como primera etapa a usted se le ha encargado la construcción de un Textual User Interface (TUI), para 
-que un administrador de sistema sea el responsable de interactuar con OSGi por medio de cinco funciones:
+que un administrador de sistema sea el responsable de interactuar con OSGi por medio de cuatro funciones:
 
 1. Ingresar un libro
 2. Remover un libro
