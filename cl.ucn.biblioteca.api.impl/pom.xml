@@ -24,11 +24,6 @@
             <version>1.13.0</version>
         </dependency>
         <dependency>
-            <groupId>cl.ucn.felix</groupId>
-            <artifactId>cl.ucn.felix.biblioteca.api</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
             <groupId>cl.ucn</groupId>
             <artifactId>cl.ucn.biblioteca.api</artifactId>
             <version>1.0.0</version>
